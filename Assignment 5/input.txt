@@ -1,0 +1,1 @@
+Welcome, In this game You'll be prompted with option to roll the dice and your Score will be displayed. If you input y then two dice will be rolled again for computer and you and the score will be shown again. You can roll until your score doesn't exceed 21. The closest to 21 wins. The game starts Now.

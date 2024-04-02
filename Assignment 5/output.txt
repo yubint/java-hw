@@ -1,0 +1,10 @@
+The computer's Score is 16 and Your Score is 15
+You've Lost
+The computer's Score is 19 and Your Score is 25
+You've Lost
+The computer's Score is 19 and Your Score is 22
+You've Lost
+The computer's Score is 11 and Your Score is 17
+You've Won
+The computer's Score is 19 and Your Score is 17
+You've Lost
